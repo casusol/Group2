@@ -2,8 +2,8 @@
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		System.out.println("Hello World!");
+		// TODO Create a Hello World Application in Java and push it
+		System.out.println("Hello World Application in Java!");
 	}
 
 }
